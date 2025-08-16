@@ -150,38 +150,3 @@ dealsmart/
 └── requirements.txt
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## ⚠️ Disclaimer
-
-This tool is for educational and informational purposes only. Always do your own research before making purchasing decisions. The predictions and scores are based on machine learning models and may not always be accurate.
-
-## 🐛 Troubleshooting
-
-### Common Issues
-
-1. **CORS Errors**: Ensure the backend is running on port 5000
-2. **Scraping Failures**: Amazon may block requests - try different URLs
-3. **Model Loading Errors**: Ensure `model_rating.pkl` is in the backend directory
-
-### Getting Help
-
-If you encounter any issues, please:
-1. Check that all dependencies are installed correctly
-2. Ensure both backend and frontend servers are running
-3. Check the browser console for any JavaScript errors
-4. Verify the Flask server logs for backend errors
-
----
-
-**Made with ❤️ using Flask & React**
